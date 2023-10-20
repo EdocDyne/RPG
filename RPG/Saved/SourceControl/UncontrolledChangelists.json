@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Administrator/Documents/Unreal Projects/RPG/RPG/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Administrator/Documents/Unreal Projects/RPG/RPG/Content/Characters/RPG_Character/Animations/Crouch/Crouch_Idle.uasset",
+				"C:/Users/Administrator/Documents/Unreal Projects/RPG/RPG/Content/Characters/RPG_Character/Animations/Crouch/Crouh_Walk.uasset",
+				"C:/Users/Administrator/Documents/Unreal Projects/RPG/RPG/Content/Characters/RPG_Character/Animations/Locomotion/Idle_Break.uasset",
+				"C:/Users/Administrator/Documents/Unreal Projects/RPG/RPG/Content/Characters/RPG_Character/Animations/Locomotion/Walk_Stop.uasset",
+				"C:/Users/Administrator/Documents/Unreal Projects/RPG/RPG/Content/Characters/RPG_Character/Animations/Locomotion/LocomotionBlendSpace1D.uasset",
+				"C:/Users/Administrator/Documents/Unreal Projects/RPG/RPG/Content/Characters/RPG_Character/Animations/ABP_Character.uasset",
+				"C:/Users/Administrator/Documents/Unreal Projects/RPG/RPG/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}

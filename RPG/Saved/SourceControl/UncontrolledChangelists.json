@@ -12,7 +12,10 @@
 				"C:/Users/Administrator/Documents/Unreal Projects/RPG/RPG/Content/Characters/RPG_Character/Animations/Locomotion/Walk_Stop.uasset",
 				"C:/Users/Administrator/Documents/Unreal Projects/RPG/RPG/Content/Characters/RPG_Character/Animations/Locomotion/LocomotionBlendSpace1D.uasset",
 				"C:/Users/Administrator/Documents/Unreal Projects/RPG/RPG/Content/Characters/RPG_Character/Animations/ABP_Character.uasset",
-				"C:/Users/Administrator/Documents/Unreal Projects/RPG/RPG/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"C:/Users/Administrator/Documents/Unreal Projects/RPG/RPG/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Administrator/Documents/Unreal Projects/RPG/RPG/Content/Characters/RPG_Character/Animations/Crouch/CrouchBlendSpace1D.uasset",
+				"C:/Users/Administrator/Documents/Unreal Projects/RPG/RPG/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"C:/Users/Administrator/Documents/Unreal Projects/RPG/RPG/Content/ThirdPerson/Input/IMC_Default.uasset"
 			]
 		}
 	]
